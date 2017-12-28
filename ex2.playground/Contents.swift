@@ -1,0 +1,1 @@
+var wallet = 12
